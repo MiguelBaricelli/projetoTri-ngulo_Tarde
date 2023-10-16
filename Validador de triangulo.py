@@ -1,7 +1,7 @@
 # validador do triangulo
 
 # apresentação
-
+# Um trabalho muito bom - Gilberto
 print('            -- validador de triangulo   ')
 
 # Entrada
